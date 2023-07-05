@@ -1,0 +1,42 @@
+INTRO :
+
+Le terme "IoT" est l'acronyme de l'expression anglaise "Internet of Things", qui peut être traduite en français par "Internet des objets",inventé par Kevin Ashton, a commencé à être utilisé dans les années 2000 est un réseau d'objets et de terminaux connectés équipés de capteurs (et d'autres technologies) leur permettant de transmettre et de recevoir des données entre eux et avec d'autres systèmes.
+
+ 
+CHIFFRES :
+
+A l'échelle mondiale, il y avait 14,4 milliards d'objets connectés en 2022, En France on estime à 244 millions le nombre d'objets connectés. 
+
+400% d'augmentation due au covid à la guerre en ukraine.
+
+Sécurité :
+
+En France, selon Statista, le revenu du marché de la sécurité est passé de 92 à 156 millions d'euros entre 2017 en 2020 et devrait atteindre 378 millions d'euros en 2025.
+
+l'objet connecté le plus piraté est la caméra.  En cause, les caméras connectées les plus répandues sont généralement peu chères, avec des mots de passe par défaut non mis à jour et donc peu sécurisés. 
+
+Attaques par déni de service (DDoS) : Les attaques DDoS visent à submerger un dispositif ou un réseau avec un trafic excessif, le rendant indisponible pour les utilisateurs légitimes.
+
+
+Attaques d'usurpation d'identité : Les attaquants peuvent tenter d'usurper l'identité d'un dispositif IoT pour accéder à des systèmes ou des réseaux protégés.
+
+
+Attaques par injection de code : Certains dispositifs IoT peuvent être vulnérables à ces attaques, où des attaquants exploitent les failles de sécurité pour exécuter du code malveillant sur les dispositifs ou les réseaux associés.
+
+48% des entreprises admettent ne pas pouvoir détecter les failles de sécurité IoT sur leur réseau. Près de la moitié des entreprises qui utilisent l'IoT ne peuvent pas identifier lorsque leur réseau est compromis. 
+
+
+-dérobé des données personnelles des joueurs du casino
+
+ENJEUX 
+
+- Vies humaines nottemment avec les voitures connectées et autonome
+
+-Souvent ciblé au bout de 24h
+
+
+
+
+
+
+
